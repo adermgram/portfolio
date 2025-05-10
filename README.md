@@ -4,12 +4,15 @@
 
 A modern, mobile-responsive portfolio website to showcase Adam Idris's skills, projects, and experience.
 
+## 🚀 Live Demo
+[https://adamidris.netlify.app/](https://adamidris.netlify.app/)
+
 ## Features
 - Clean, professional, and modern UI
 - Mobile responsive design
 - Animated hero section
 - About, Skills, Experience, and Projects sections
-- Contact form with validation
+- Contact section with mailto link
 - Dark/Light mode toggle
 - Smooth transitions and micro-animations
 
@@ -35,7 +38,7 @@ A modern, mobile-responsive portfolio website to showcase Adam Idris's skills, p
    - **Build Command:** `npm run build`
    - **Publish Directory:** `dist`
 3. After deployment, your site will be live at:  
-   [https://your-portfolio.netlify.app](https://your-portfolio.netlify.app) (replace with your actual URL)
+   [https://adamidris.netlify.app/](https://adamidris.netlify.app/)
 
-## Live Demo
-[Add your Netlify URL here after deployment] 
+## Contact
+For questions or feedback, reach out at [adamidrisadam004@gmail.com](mailto:adamidrisadam004@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adam-idris-adam/). 
